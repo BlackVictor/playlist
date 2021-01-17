@@ -59,7 +59,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="echotv",Эхо-ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8?version=2
-
 #EXTINF:-1 group-title="Эфирные" tvg-id="mir",Мир
 https://play.megafon.tv/out/u/v1-video-6348393.mpd
 #EXTINF:-1 group-title="Эфирные" tvg-id="5kanal-ru",Пятый канал
