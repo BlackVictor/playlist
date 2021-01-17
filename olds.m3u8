@@ -1093,7 +1093,7 @@ https://play.megafon.tv/out/u/v1-video-6348331.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-roman",Русский роман HD
 https://play.megafon.tv/out/u/v1-video-7986599.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="strashnoe-hd",Страшное HD
-https://play.megafon.tv/out/u/v1-video-7986599.mpd
+https://cdn.strah.video:8888/live/strashnoehd/chunks.m3u8?nimblesessionid=200324&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDIxIDQ6Mzc6NDAgUE0maGFzaF92YWx1ZT0zdk05OFF4c0hKT2hoMDhGZ0FnSHRRPT0mdmFsaWRtaW51dGVzPTMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2JmlkPTEz
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="feniks-plus-kino",Феникс+ кино
 https://play.megafon.tv/out/u/v1-video-5612950.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Мужские" tvg-id="m1global",M-1 Global
