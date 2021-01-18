@@ -130,6 +130,8 @@ https://play.megafon.tv/out/u/v1-video-6348342.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love",СТС Love
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-431" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/3894.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Супер HD
+http://tv.aurabook.site:8080/channel/n17ff0b08/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="super",Супер
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
