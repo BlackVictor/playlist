@@ -113,10 +113,10 @@ https://play.megafon.tv/out/u/v1-video-5308491.mpd
 #EXTINF:-1 group-title="Развлекательные" tvg-id="pes-i-ko",Пес и ко
 https://play.megafon.tv/out/u/v1-video-5612991.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="piatnica",Пятница!
-#EXTINF:-1 group-title="Развлекательные" tvg-id="piatnica",Пятница!
-https://play.megafon.tv/out/u/v1-video-5613011.mpd
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
+#EXTINF:-1 group-title="Развлекательные" tvg-id="piatnica",Пятница!
+https://play.megafon.tv/out/u/v1-video-5613011.mpd
 #EXTINF:-1 group-title="Развлекательные" tvg-id="sarafan",Сарафан
 https://play.megafon.tv/out/u/v1-video-6348346.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts",СТС
