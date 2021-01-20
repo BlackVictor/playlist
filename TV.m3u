@@ -184,6 +184,8 @@ https://play.megafon.tv/out/u/v1-video-6370558.mpd
 https://play.megafon.tv/out/u/v1-video-6782125.mpd
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-60" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8696.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Discovery Ultra
 http://tv.aurabook.site:8080/channel/n33c05008/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-572" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5291.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",DocuBox HD
+http://tv.aurabook.site:8080/channel/n7e0cf44e/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Познавательные" tvg-id="docubox-hd",DocuBox
 https://play.megafon.tv/out/u/v1-video-6782117.mpd
 #EXTINF:-1 group-title="Познавательные" tvg-id="dtx",DTX HD
