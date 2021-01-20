@@ -467,6 +467,10 @@ https://play.megafon.tv/out/u/v1-video-6348371.mpd
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino-tv",КиноТВ HD
 https://play.megafon.tv/out/u/v1-video-7969543.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/8831.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Киноджем 1 HD
+http://tv.aurabook.site:8080/channel/n5d7e1e41/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7041.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Киноджем 2 HD
+http://tv.aurabook.site:8080/channel/n5d7da9e2/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinomiks",Киномикс
 https://play.megafon.tv/out/u/v1-video-6348397.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinosvidanie",Киносвидание
@@ -635,6 +639,8 @@ https://play.megafon.tv/out/u/v1-video-5308437.mpd
 https://play.megafon.tv/out/u/v1-video-5308408.mpd
 #EXTINF:-1 group-title="Музыкальные" tvg-id="o2tv",О2ТВ
 https://play.megafon.tv/out/u/v1-video-5308486.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-30002" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/8673.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",ТНТ Music HD
+http://tv.aurabook.site:8080/channel/7e6a834/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Кулинарные" tvg-id="eda",Еда
 https://play.megafon.tv/out/u/v1-video-7986629.mpd
 #EXTINF:-1 group-title="Кулинарные" tvg-id="eda-hd",Еда Премиум HD
@@ -1170,6 +1176,8 @@ https://play.megafon.tv/out/u/v1-video-5613015.mpd
 https://play.megafon.tv/out/u/v1-video-8013154.mpd
 #EXTINF:-1 group-title="Телемагазины" tvg-id="yuvelirochka",Ювелирочка
 https://play.megafon.tv/out/u/v1-video-5308481.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-54315" parent-code="0000" group-title="Эротические" tvg-logo="http://pl.ottg.tv:80/icon/4736.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Babes TV HD 18+
+http://tv.aurabook.site:8080/channel/2f290e8b/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Эротические" tvg-id="barely-legal",Barely Legal TV
 https://play.megafon.tv/out/u/v1-video-6348294.mpd
 #EXTINF:-1 group-title="Эротические" tvg-id="blue-hustler",Blue Hustler HD
@@ -1186,6 +1194,8 @@ https://play.megafon.tv/out/u/v1-video-6782113.mpd
 https://play.megafon.tv/out/u/v1-video-6782115.mpd
 #EXTINF:-1 group-title="Эротические" tvg-id="playboy-tv",Playboy TV
 https://play.megafon.tv/out/u/v1-video-6782118.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Эротические" tvg-logo="http://pl.ottg.tv:80/icon/8538.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Tiny4k UHD 18+
+http://tv.aurabook.site:8080/channel/n4a828d70/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Эротические" tvg-id="russkaya-noch",Русская ночь
 https://play.megafon.tv/out/u/v1-video-6348358.mpd
 #EXTINF:-1 group-title="Эротические" tvg-id="shalun",Шалун
