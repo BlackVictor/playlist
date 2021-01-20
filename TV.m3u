@@ -570,6 +570,8 @@ https://play.megafon.tv/out/u/v1-video-7969100.mpd
 https://play.megafon.tv/out/u/v1-video-6782111.mpd
 #EXTINF:-1 group-title="Женские" tvg-id="world-fashion-channel" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1541767385222.png",World Fashion Channel
 https://play.megafon.tv/out/u/v1-video-6361992.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-246" group-title="Женские" tvg-logo="http://pl.ottg.tv:80/icon/4131.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Домашний HD
+http://tv.aurabook.site:8080/channel/53763a44/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Женские" tvg-id="domashny",Домашний
 https://play.megafon.tv/out/u/v1-video-6844321.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Женские" tvg-id="domashny",Домашний
