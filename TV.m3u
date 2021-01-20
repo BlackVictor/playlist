@@ -100,6 +100,8 @@ https://play.megafon.tv/out/u/v1-video-6348301.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="gags-network" tvg-logo="http://immo.date/logo/gags-network.png",Gags Network HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/variant.m3u8?version=2
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-9147" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/7004.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Insight UHD PREMIUM+
+http://tv.aurabook.site:8080/channel/260d2a2f/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Развлекательные" tvg-id="bobior",Бобёр
 https://play.megafon.tv/out/u/v1-video-6348374.mpd
 #EXTINF:-1 group-title="Развлекательные" tvg-id="e-tv",E TV
