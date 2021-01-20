@@ -59,6 +59,8 @@ https://play.megafon.tv/out/u/v1-video-6348357.mpd
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
 #EXTINF:-1 group-title="Эфирные" tvg-id="otr",ОТР
 https://play.megafon.tv/out/u/v1-video-6348310.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-134" group-title="Информационные" tvg-logo="http://pl.ottg.tv:80/icon/4898.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",360 HD
+http://tv.aurabook.site:8080/channel/6a5b2953/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Информационные" tvg-id="360-news",360° Новости
 https://play.megafon.tv/out/u/v1-video-6348365.mpd
 #EXTINF:-1 group-title="Информационные" tvg-id="vmeste-rf",Вместе-РФ
@@ -527,6 +529,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/variant.m3u8?version=2
 http://tv.aurabook.site:8080/channel/59d8a1b/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="feniks-plus-kino",Феникс+ кино
 https://play.megafon.tv/out/u/v1-video-5612950.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-2506" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2119.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Хит HD
+http://tv.aurabook.site:8080/channel/602daa51/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Мужские" tvg-id="avto-plus",Авто плюс
 https://play.megafon.tv/out/u/v1-video-6348295.mpd
 #EXTINF:-1 group-title="Мужские" tvg-id="avto24",АВТО24
