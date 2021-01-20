@@ -1,66 +1,158 @@
 #EXTM3U url-tvg="http://iptvx.one/EPG"
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="pervy",Первый канал HD
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="pervy",Первый канал HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый канал HD
+#EXTINF:-1 group-title="Местные" tvg-id="pervy",Первый канал HD
 https://play.megafon.tv/out/u/v1-video-6843814.mpd
-#EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый канал HD
+#EXTINF:-1 group-title="Местные" tvg-id="pervy",Первый канал HD
 https://play.megafon.tv/out/u/v1-video-6348293.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="pervy",Первый канал
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="pervy",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1",Россия 1 HD
+#EXTINF:-1 group-title="Местные" tvg-id="rossia1",Россия 1 HD
 https://play.megafon.tv/out/u/v1-video-6348318.mpd
-#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1",Россия 1 HD SD
+#EXTINF:-1 group-title="Местные" tvg-id="rossia1",Россия 1 HD SD
 https://play.megafon.tv/out/u/v1-video-6843907.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="rossia1",Россия 1
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="rossia1",Россия 1
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
-#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1",Россия 1
+#EXTINF:-1 group-title="Местные" tvg-id="rossia1",Россия 1
 https://play.megafon.tv/out/u/v1-video-6348347.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-8064" group-title="Эфирные" tvg-logo="http://pl.ottg.tv:80/icon/8711.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",НТВ HD
+#EXTINF:-1 group-title="Местные" tvg-id="150",Матч ТВ HD
+https://play.megafon.tv/out/u/v1-video-6348386.mpd
+#EXTINF:-1 group-title="Местные" tvg-id="match-tv",Матч! ТВ
+https://play.megafon.tv/out/u/v1-video-6348383.mpd
+#EXTINF:-1 group-title="Местные" tvg-id="match-tv",Матч HD
+https://play.megafon.tv/out/u/v1-video-6348335.mpd
+#EXTINF:-1 group-title="Местные" tvg-id="match-tv",Матч
+https://play.megafon.tv/out/u/v1-video-7968821.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-8064" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/8711.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",НТВ HD
 http://tv.aurabook.site:8080/channel/513b0e73/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-8064" group-title="Эфирные" tvg-logo="http://pl.ottg.tv:80/icon/2017.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",НТВ HD
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-8064" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/2017.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",НТВ HD
 http://tv.aurabook.site:8080/channel/d1b4fe1/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="ntv",НТВ
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="ntv",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Эфирные" tvg-id="ntv",НТВ
+#EXTINF:-1 group-title="Местные" tvg-id="ntv",НТВ
 https://play.megafon.tv/out/u/v1-video-6348403.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="mir",Мир
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
-#EXTINF:-1 group-title="Эфирные" tvg-id="mir",Мир
-https://play.megafon.tv/out/u/v1-video-6348393.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="5kanal-ru",Пятый канал
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="5kanal-ru",Пятый канал
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Эфирные" tvg-id="5kanal-ru",Пятый канал
+#EXTINF:-1 group-title="Местные" tvg-id="5kanal-ru",Пятый канал
 https://play.megafon.tv/out/u/v1-video-6348300.mpd
-#EXTINF:-1 group-title="Эфирные" tvg-id="5kanal-ru",Пятый канал
+#EXTINF:-1 group-title="Местные" tvg-id="5kanal-ru",Пятый канал
 https://play.megafon.tv/out/u/v1-video-6844616.mpd
-#EXTINF:-1 group-title="Эфирные" tvg-id="rentv",РЕН ТВ HD
-https://play.megafon.tv/out/u/v1-video-6844901.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="rentv",РЕН ТВ
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="kultura",Россия К
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Эфирные" tvg-id="rentv",РЕН ТВ
-https://play.megafon.tv/out/u/v1-video-6348334.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="tvcentr",ТВ Центр
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="kultura",Россия К
+https://play.megafon.tv/out/u/v1-video-6348336.mpd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="rossia-24",Россия 24
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-259" group-title="Эфирные" tvg-logo="http://pl.ottg.tv:80/icon/9348.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Звезда HD
-http://tv.aurabook.site:8080/channel/5b17cc5f/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="zvezda",Звезда
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="rossia-24",Россия 24
+https://play.megafon.tv/out/u/v1-video-6348326.mpd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="karusel",Карусель
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Эфирные" tvg-id="zvezda",Звезда
-https://play.megafon.tv/out/u/v1-video-6348357.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="otr",Общественное телевидение России
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="karusel",Карусель
+https://play.megafon.tv/out/u/v1-video-6348367.mpd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="otr",Общественное телевидение России
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
-#EXTINF:-1 group-title="Эфирные" tvg-id="otr",ОТР
+#EXTINF:-1 group-title="Местные" tvg-id="otr",ОТР
 https://play.megafon.tv/out/u/v1-video-6348310.mpd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="tvcentr",ТВ Центр
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="rentv",РЕН ТВ HD
+https://play.megafon.tv/out/u/v1-video-6844901.mpd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="rentv",РЕН ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="rentv",РЕН ТВ
+https://play.megafon.tv/out/u/v1-video-6348334.mpd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="spas",Спас
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="spas",СПАС
+https://play.megafon.tv/out/u/v1-video-5613003.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-407" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/5799.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",СТС HD
+http://tv.aurabook.site:8080/channel/58154280/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-407" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/2990.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",СТС HD
+http://tv.aurabook.site:8080/channel/6e365a74/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="sts",СТС
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="sts",СТС
+https://play.megafon.tv/out/u/v1-video-6844020.mpd
+#EXTINF:-1 group-title="Местные" tvg-id="sts",СТС
+https://play.megafon.tv/out/u/v1-video-6348342.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-246" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/4131.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Домашний HD
+http://tv.aurabook.site:8080/channel/53763a44/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 group-title="Местные" tvg-id="domashny",Домашний
+https://play.megafon.tv/out/u/v1-video-6844321.mpd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="domashny",Домашний
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-432" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/1540.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",ТВ 3 HD
+http://tv.aurabook.site:8080/channel/n74384f0b/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="tv3-ru",ТВ 3
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="piatnica",Пятница!
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="piatnica",Пятница!
+https://play.megafon.tv/out/u/v1-video-5613011.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-259" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/9348.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Звезда HD
+http://tv.aurabook.site:8080/channel/5b17cc5f/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="zvezda",Звезда
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="zvezda",Звезда
+https://play.megafon.tv/out/u/v1-video-6348357.mpd
+#EXTINF:-1 group-title="Местные" tvg-id="mir",Мир
+https://play.megafon.tv/out/u/v1-video-6348393.mpd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="mir",Мир
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-821" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/1337.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",ТНТ HD
+http://tv.aurabook.site:8080/channel/4d3fdb1b/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-821" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/3461.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",ТНТ HD
+http://tv.aurabook.site:8080/channel/4fda4b87/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-821" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/5889.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",ТНТ HD
+http://tv.aurabook.site:8080/channel/598419f9/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 group-title="Местные" tvg-id="tnt",ТНТ HD
+http://188.35.9.11:2018
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="tnt",ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="tnt",ТНТ
+https://play.megafon.tv/out/u/v1-video-6348390.mpd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="muztv",Муз ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="muztv",Муз ТВ
+https://play.megafon.tv/out/u/v1-video-5308437.mpd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="svoyo-tv-stavropol" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/nclogo1549825907118.png",Своё ТВ Ставрополь HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="kavkaz24",Кавказ 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="che",Че!
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="yu",Ю
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
+#EXTINF:-1 group-title="Местные" tvg-id="yu",Ю
+https://play.megafon.tv/out/u/v1-video-6348343.mpd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="no_epg_news" tvg-logo="http://immo.date/logo/atv-stavropol.png",АТВ-Ставрополь
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8?version=2
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-134" group-title="Информационные" tvg-logo="http://pl.ottg.tv:80/icon/4898.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",360 HD
 http://tv.aurabook.site:8080/channel/6a5b2953/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Информационные" tvg-id="360-news",360° Новости
@@ -85,11 +177,6 @@ https://play.megafon.tv/out/u/v1-video-6348312.mpd
 https://play.megafon.tv/out/u/v1-video-6639081.mpd
 #EXTINF:-1 group-title="Информационные" tvg-id="pro-business",Про Бизнес
 https://play.megafon.tv/out/u/v1-video-6782135.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Информационные" tvg-id="rossia-24",Россия 24
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
-#EXTINF:-1 group-title="Информационные" tvg-id="rossia-24",Россия 24
-https://play.megafon.tv/out/u/v1-video-6348326.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="2na2",2x2
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
@@ -117,24 +204,8 @@ https://play.megafon.tv/out/u/v1-video-7731226.mpd
 https://play.megafon.tv/out/u/v1-video-5308491.mpd
 #EXTINF:-1 group-title="Развлекательные" tvg-id="pes-i-ko",Пес и ко
 https://play.megafon.tv/out/u/v1-video-5612991.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="piatnica",Пятница!
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Развлекательные" tvg-id="piatnica",Пятница!
-https://play.megafon.tv/out/u/v1-video-5613011.mpd
 #EXTINF:-1 group-title="Развлекательные" tvg-id="sarafan",Сарафан
 https://play.megafon.tv/out/u/v1-video-6348346.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-407" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/5799.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",СТС HD
-http://tv.aurabook.site:8080/channel/58154280/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-407" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/2990.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",СТС HD
-http://tv.aurabook.site:8080/channel/6e365a74/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts",СТС
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Развлекательные" tvg-id="sts",СТС
-https://play.megafon.tv/out/u/v1-video-6844020.mpd
-#EXTINF:-1 group-title="Развлекательные" tvg-id="sts",СТС
-https://play.megafon.tv/out/u/v1-video-6348342.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love",СТС Love
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2
@@ -145,28 +216,10 @@ http://tv.aurabook.site:8080/channel/n17ff0b08/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxl
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" tvg-id="super",Супер
 https://play.megafon.tv/out/u/v1-video-6348356.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-432" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/1540.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",ТВ 3 HD
-http://tv.aurabook.site:8080/channel/n74384f0b/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tv3-ru",ТВ 3
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" tvg-id="teatr",Театр
 https://play.megafon.tv/out/u/v1-video-6362005.mpd
 #EXTINF:-1 group-title="Развлекательные" tvg-id="tnomer",Тномер
 https://play.megafon.tv/out/u/v1-video-6361997.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-821" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/1337.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",ТНТ HD
-http://tv.aurabook.site:8080/channel/59841668/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-821" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/3461.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",ТНТ HD
-http://tv.aurabook.site:8080/channel/598419f9/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-821" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/5889.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",ТНТ HD
-http://tv.aurabook.site:8080/channel/4fda4b87/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
-#EXTINF:-1 group-title="Развлекательные" tvg-id="tnt",ТНТ HD
-http://188.35.9.11:2018
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt",ТНТ
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
-#EXTINF:-1 group-title="Развлекательные" tvg-id="tnt",ТНТ
-https://play.megafon.tv/out/u/v1-video-6348390.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt4",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
@@ -215,7 +268,7 @@ https://play.megafon.tv/out/u/v1-video-6348313.mpd
 https://play.megafon.tv/out/u/v1-video-6348313.mpd
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/nclogo1508922855351.png",RTG HD
 https://play.megafon.tv/out/u/v1-video-7986588.mpd
-#EXTINF:-1 group-title="Познавательные" tvg-id="rtg-tv",RTG
+#EXTINF:-1 group-title="Познавательные" tvg-id="rtg-tv" tvg-logo="https://seeklogo.com/images/R/rtg-tv-logo-9EF1E7B447-seeklogo.com.png",RTG
 https://play.megafon.tv/out/u/v1-video-7731258.mpd
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtd-hd",RTД HD
 https://play.megafon.tv/out/u/v1-video-7731480.mpd
@@ -273,11 +326,6 @@ https://play.megafon.tv/out/u/v1-video-5613000.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="ratnik" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1604054297280.png",Ратник HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RATNIKHD/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="kultura",Россия К
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2
-#EXTINF:-1 group-title="Познавательные" tvg-id="kultura",Россия К
-https://play.megafon.tv/out/u/v1-video-6348336.mpd
 #EXTINF:-1 group-title="Познавательные" tvg-id="tayny-galaktiki" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555312225169.png",Тайны Галактики
 https://play.megafon.tv/out/u/v1-video-6361993.mpd
 #EXTINF:-1 group-title="Познавательные" tvg-id="centralnoye-tv",Центральное телевидение
@@ -315,11 +363,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2
 https://play.megafon.tv/out/u/v1-video-5612985.mpd
 #EXTINF:-1 group-title="Детские" tvg-id="ginger-hd",Капитан Фантастика HD
 https://play.megafon.tv/out/u/v1-video-7986577.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel",Карусель
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2
-#EXTINF:-1 group-title="Детские" tvg-id="karusel",Карусель
-https://play.megafon.tv/out/u/v1-video-6348367.mpd
 #EXTINF:-1 group-title="Детские" tvg-id="malysh",Малыш
 https://play.megafon.tv/out/u/v1-video-5612965.mpd
 #EXTINF:-1 group-title="Детские" tvg-id="mult",Мульт HD
@@ -384,14 +427,6 @@ https://play.megafon.tv/out/u/v1-video-6348305.mpd
 https://play.megafon.tv/out/u/v1-video-6348388.mpd
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-premier",Матч Премьер HD
 https://play.megafon.tv/out/u/v1-video-6348406.mpd
-#EXTINF:-1 group-title="Спортивные" tvg-id="150",Матч ТВ HD
-https://play.megafon.tv/out/u/v1-video-6348386.mpd
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv",Матч! ТВ
-https://play.megafon.tv/out/u/v1-video-6348383.mpd
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv",Матч HD
-https://play.megafon.tv/out/u/v1-video-6348335.mpd
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv",Матч
-https://play.megafon.tv/out/u/v1-video-7968821.mpd
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football1",Матч! Футбол 1 HD
 https://play.megafon.tv/out/u/v1-video-6348297.mpd
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football2",Матч! Футбол 2 HD
@@ -631,9 +666,6 @@ https://play.megafon.tv/out/u/v1-video-7322491.mpd
 https://play.megafon.tv/out/u/v1-video-7731146.mpd
 #EXTINF:-1 group-title="Мужские" tvg-id="tochka-otryva",Точка отрыва
 https://play.megafon.tv/out/u/v1-video-7731224.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Мужские" tvg-id="che",Че!
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 group-title="Женские" tvg-id="hgtv",HGTV
 https://play.megafon.tv/out/u/v1-video-7986580.mpd
 #EXTINF:-1 group-title="Женские" tvg-id="fashionbox-hd",FashionBox HD
@@ -642,20 +674,8 @@ https://play.megafon.tv/out/u/v1-video-7969100.mpd
 https://play.megafon.tv/out/u/v1-video-6782111.mpd
 #EXTINF:-1 group-title="Женские" tvg-id="world-fashion-channel" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1541767385222.png",World Fashion Channel
 https://play.megafon.tv/out/u/v1-video-6361992.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-246" group-title="Женские" tvg-logo="http://pl.ottg.tv:80/icon/4131.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Домашний HD
-http://tv.aurabook.site:8080/channel/53763a44/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
-#EXTINF:-1 group-title="Женские" tvg-id="domashny",Домашний
-https://play.megafon.tv/out/u/v1-video-6844321.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Женские" tvg-id="domashny",Домашний
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
 #EXTINF:-1 group-title="Женские" tvg-id="mama",Мама
 https://play.megafon.tv/out/u/v1-video-8013126.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Женские" tvg-id="yu",Ю
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
-#EXTINF:-1 group-title="Женские" tvg-id="yu",Ю
-https://play.megafon.tv/out/u/v1-video-6348343.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыкальные" tvg-id="no_epg_music" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553687953730.png",#ё HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8?version=2
@@ -710,11 +730,6 @@ https://play.megafon.tv/out/u/v1-video-6348376.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыкальные" tvg-id="matur-tv",Матур ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыкальные" tvg-id="muztv",Муз ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Музыкальные" tvg-id="muztv",Муз ТВ
-https://play.megafon.tv/out/u/v1-video-5308437.mpd
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzyka-pervogo",Музыка Первого
 https://play.megafon.tv/out/u/v1-video-5308408.mpd
 #EXTINF:-1 group-title="Музыкальные" tvg-id="o2tv",О2ТВ
@@ -733,11 +748,6 @@ https://play.megafon.tv/out/u/v1-video-7731168.mpd
 https://play.megafon.tv/out/u/v1-video-6348350.mpd
 #EXTINF:-1 group-title="Религиозные" tvg-id="soyuz" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1348758866804.png",Союз
 https://play.megafon.tv/out/u/v1-video-5613007.mpd
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религиозные" tvg-id="spas",Спас
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Религиозные" tvg-id="spas",СПАС
-https://play.megafon.tv/out/u/v1-video-5613003.mpd
 #EXTINF:-1 group-title="Национальные" tvg-id="arirang",Arirang
 https://play.megafon.tv/out/u/v1-video-6348303.mpd
 #EXTINF:-1 group-title="Национальные" tvg-id="bbc",BBC World News
@@ -834,9 +844,6 @@ https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8?v
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="atv-media",АТВ-Медиа
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="no_epg_news" tvg-logo="http://immo.date/logo/atv-stavropol.png",АТВ-Ставрополь
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="afontovo-kr",Афонтово HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8?version=2
@@ -933,9 +940,6 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="kabardino-balkaria",Кабардино-Балкария
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-nalch-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="kavkaz24",Кавказ 24
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="kaskad24",Каскад
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8?version=2
@@ -1120,9 +1124,6 @@ https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8?version
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="saratov-24" tvg-logo="http://immo.date/logo/saratov24.png",Саратов-24
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="svoyo-tv-stavropol" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/nclogo1549825907118.png",Своё ТВ Ставрополь HD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="selenga-tv",Селенга-ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_SELENGA/variant.m3u8?version=2
