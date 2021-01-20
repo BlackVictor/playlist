@@ -147,6 +147,8 @@ http://tv.aurabook.site:8080/channel/n17ff0b08/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxl
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" tvg-id="super",Супер
 https://play.megafon.tv/out/u/v1-video-6348356.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-432" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/1540.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",ТВ 3 HD
+http://tv.aurabook.site:8080/channel/n74384f0b/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tv3-ru",ТВ 3
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
@@ -573,8 +575,12 @@ https://play.megafon.tv/out/u/v1-video-6348330.mpd
 https://play.megafon.tv/out/u/v1-video-5308442.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="okino",О! Кино!
 https://play.megafon.tv/out/u/v1-video-5308411.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-576" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/4999.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Остросюжетное HD
+http://tv.aurabook.site:8080/channel/5d407daf/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="pobeda",Победа HD
 https://play.megafon.tv/out/u/v1-video-6361995.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-574" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7718.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Премиальное HD
+http://tv.aurabook.site:8080/channel/n11ad19e9/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="retro-tv",Ретро ТВ
 https://play.megafon.tv/out/u/v1-video-6348323.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="rodnoe-kino",Родное кино
@@ -599,6 +605,8 @@ http://tv.aurabook.site:8080/channel/59d8a1b/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2
 https://play.megafon.tv/out/u/v1-video-5612950.mpd
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-2506" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2119.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Хит HD
 http://tv.aurabook.site:8080/channel/602daa51/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-282" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7023.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Шокирующее HD
+http://tv.aurabook.site:8080/channel/1917e1e6/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Мужские" tvg-id="avto-plus",Авто плюс
 https://play.megafon.tv/out/u/v1-video-6348295.mpd
 #EXTINF:-1 group-title="Мужские" tvg-id="avto24",АВТО24
