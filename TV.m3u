@@ -264,6 +264,10 @@ https://play.megafon.tv/out/u/v1-video-5308459.mpd
 https://play.megafon.tv/out/u/v1-video-7969092.mpd
 #EXTINF:-1 group-title="Детские" tvg-id="baby-tv",Baby TV
 https://play.megafon.tv/out/u/v1-video-7969096.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="bcu-kids" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/8585.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",BCU Kids HD
+http://tv.aurabook.site:8080/channel/n32961381/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="bcu-kids-plus" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/6398.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",BCU Kids+ HD
+http://tv.aurabook.site:8080/channel/n2027f1f2/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Детские" tvg-id="boomerang",Boomerang
 https://play.megafon.tv/out/u/v1-video-5308446.mpd
 #EXTINF:-1 group-title="Детские" tvg-id="cartoon-network",Cartoon Network
@@ -386,6 +390,8 @@ https://play.megafon.tv/out/u/v1-video-6370552.mpd
 https://play.megafon.tv/out/u/v1-video-6370555.mpd
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55465" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7255.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",BCU Action HD
 http://tv.aurabook.site:8080/channel/226aac16/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="bcu-cinemaplus" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/6536.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",BCU Cinema+ HD
+http://tv.aurabook.site:8080/channel/461be092/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="bollywood-hd",Bollywood HD
 https://play.megafon.tv/out/u/v1-video-6370563.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="bolt-ru",Bolt HD Россия
