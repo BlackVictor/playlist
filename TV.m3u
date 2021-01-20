@@ -412,6 +412,8 @@ https://play.megafon.tv/out/u/v1-video-6370561.mpd
 https://play.megafon.tv/out/u/v1-video-7969112.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="filmbox-ru",FilmBox Russia
 https://play.megafon.tv/out/u/v1-video-7969114.mpd
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="flux-hd" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2344.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",Flux HD
+http://tv.aurabook.site:8080/channel/2e39d96f/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="fox",FOX HD
 https://play.megafon.tv/out/u/v1-video-7731409.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="foxlife",FOX Life HD
