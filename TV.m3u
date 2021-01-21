@@ -18,7 +18,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
 https://play.megafon.tv/out/u/v1-video-6348347.mpd
 #EXTINF:-1 group-title="Местные" tvg-id="150",Матч ТВ HD
 https://play.megafon.tv/out/u/v1-video-6348386.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-8064" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2017.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",НТВ HD
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-8064" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/2017.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",НТВ HD
 http://tv.aurabook.site:8080/channel/d1b4fe1/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="ntv",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
