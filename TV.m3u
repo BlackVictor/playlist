@@ -103,12 +103,8 @@ https://play.megafon.tv/out/u/v1-video-6348393.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="mir",Мир
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-821" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/1337.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ТНТ HD
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-821" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/5889.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ТНТ HD
 http://tv.aurabook.site:8080/channel/4d3fdb1b/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-821" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/3461.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ТНТ HD
-http://tv.aurabook.site:8080/channel/4fda4b87/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-821" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/5889.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ТНТ HD
-http://tv.aurabook.site:8080/channel/598419f9/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Местные" tvg-id="tnt",ТНТ HD
 http://188.35.9.11:2018
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="tnt",ТНТ
