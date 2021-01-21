@@ -75,10 +75,8 @@ https://play.megafon.tv/out/u/v1-video-6348334.mpd
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Местные" tvg-id="spas",СПАС
 https://play.megafon.tv/out/u/v1-video-5613003.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-407" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/5799.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",СТС HD
-http://tv.aurabook.site:8080/channel/58154280/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-407" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/2990.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA",СТС HD
-http://tv.aurabook.site:8080/channel/6e365a74/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.71dquWDGh7l1GEMrBd3jldiC8hBBI8g98qIDIa5JCex2a7r9jHEW2mSfU2PFE3FiYF7dB1ibXTf-78Y_Q7mVfA
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-407" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/5799.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",СТС HD
+http://tv.aurabook.site:8080/channel/6e365a74/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="sts",СТС
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
