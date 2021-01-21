@@ -84,6 +84,8 @@ http://tv.aurabook.site:8080/channel/n74384f0b/index.m3u8?q=eyJ1c2VySWQiOiJCbGFj
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="tv3-ru",ТВ 3
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-377" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/9657.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Пятница HD
+http://tv.aurabook.site:8080/channel/3a41a89/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="piatnica",Пятница!
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
