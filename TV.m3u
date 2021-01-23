@@ -13,8 +13,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
 https://play.megafon.tv/out/u/v1-video-6348347.mpd
 #EXTINF:-1 group-title="Местные" tvg-id="150",Матч ТВ HD
 https://play.megafon.tv/out/u/v1-video-6348386.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-8064" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/2017.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",НТВ HD
-http://tv.aurabook.site:8080/channel/d1b4fe1/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="ntv",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
@@ -60,34 +58,24 @@ https://play.megafon.tv/out/u/v1-video-6348334.mpd
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Местные" tvg-id="spas",СПАС
 https://play.megafon.tv/out/u/v1-video-5613003.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-407" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/5799.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",СТС HD
-http://tv.aurabook.site:8080/channel/6e365a74/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="sts",СТС
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Местные" tvg-id="sts",СТС
 https://play.megafon.tv/out/u/v1-video-6348342.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-246" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/4131.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Домашний HD
-http://tv.aurabook.site:8080/channel/53763a44/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="domashny",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
 #EXTINF:-1 group-title="Местные" tvg-id="domashny",Домашний
 https://play.megafon.tv/out/u/v1-video-6844321.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv3-ru" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/1540.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ТВ 3 HD
-http://tv.aurabook.site:8080/channel/n74384f0b/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="tv3-ru",ТВ 3
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-377" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/9657.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Пятница HD
-http://tv.aurabook.site:8080/channel/3a41a89/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="piatnica",Пятница!
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Местные" tvg-id="piatnica",Пятница!
 https://play.megafon.tv/out/u/v1-video-5613011.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-259" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/9348.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Звезда HD
-http://tv.aurabook.site:8080/channel/5b17cc5f/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="zvezda",Звезда
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
@@ -98,8 +86,6 @@ https://play.megafon.tv/out/u/v1-video-6348393.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="mir",Мир
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-821" group-title="Местные" tvg-logo="http://pl.ottg.tv:80/icon/5889.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ТНТ HD
-http://tv.aurabook.site:8080/channel/4d3fdb1b/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Местные" tvg-id="tnt",ТНТ HD
 http://188.35.9.11:2018
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="tnt",ТНТ
@@ -129,8 +115,6 @@ https://play.megafon.tv/out/u/v1-video-6348343.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Местные" tvg-id="no_epg_news" tvg-logo="http://immo.date/logo/atv-stavropol.png",АТВ-Ставрополь
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8?version=2
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="360-int" group-title="Информационные" tvg-logo="http://pl.ottg.tv:80/icon/4898.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",360 HD
-http://tv.aurabook.site:8080/channel/6a5b2953/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Информационные" tvg-id="360-news",360° Новости
 https://play.megafon.tv/out/u/v1-video-6348365.mpd
 #EXTINF:-1 group-title="Информационные" tvg-id="vmeste-rf",Вместе-РФ
@@ -145,8 +129,6 @@ https://play.megafon.tv/out/u/v1-video-5308467.mpd
 https://play.megafon.tv/out/u/v1-video-6361991.mpd
 #EXTINF:-1 group-title="Информационные" tvg-id="ldpr-tv",ЛДПР ТВ
 https://play.megafon.tv/out/u/v1-video-5308475.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-300" group-title="Информационные" tvg-logo="http://pl.ottg.tv:80/icon/7462.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Мир 24 HD
-http://tv.aurabook.site:8080/channel/n3f523f66/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Информационные" tvg-id="mir-24",Мир 24
 https://play.megafon.tv/out/u/v1-video-6348312.mpd
 #EXTINF:-1 group-title="Информационные" tvg-id="rbk",РБК
@@ -161,8 +143,6 @@ https://play.megafon.tv/out/u/v1-video-6348301.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="gags-network" tvg-logo="http://immo.date/logo/gags-network.png",Gags Network HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/variant.m3u8?version=2
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-9147" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/7004.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Insight UHD
-http://tv.aurabook.site:8080/channel/260d2a2f/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Развлекательные" tvg-id="bobior",Бобёр
 https://play.megafon.tv/out/u/v1-video-6348374.mpd
 #EXTINF:-1 group-title="Развлекательные" tvg-id="e-tv",E TV
@@ -185,8 +165,6 @@ https://play.megafon.tv/out/u/v1-video-6348346.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love",СТС Love
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-431" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/3894.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Супер HD
-http://tv.aurabook.site:8080/channel/n17ff0b08/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="super",Супер
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
@@ -196,8 +174,6 @@ https://play.megafon.tv/out/u/v1-video-6348356.mpd
 https://play.megafon.tv/out/u/v1-video-6362005.mpd
 #EXTINF:-1 group-title="Развлекательные" tvg-id="tnomer",Тномер
 https://play.megafon.tv/out/u/v1-video-6361997.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-336" group-title="Развлекательные" tvg-logo="http://pl.ottg.tv:80/icon/2304.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ТНТ4 HD
-http://tv.aurabook.site:8080/channel/n28f858d5/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt4",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
@@ -215,10 +191,6 @@ https://play.megafon.tv/out/u/v1-video-6782129.mpd
 https://play.megafon.tv/out/u/v1-video-6370558.mpd
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-science",Discovery Science
 https://play.megafon.tv/out/u/v1-video-6782125.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-60" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8696.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Discovery Ultra
-http://tv.aurabook.site:8080/channel/n33c05008/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-572" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5291.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",DocuBox HD
-http://tv.aurabook.site:8080/channel/n7e0cf44e/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Познавательные" tvg-id="docubox-hd",DocuBox
 https://play.megafon.tv/out/u/v1-video-6782117.mpd
 #EXTINF:-1 group-title="Познавательные" tvg-id="dtx",DTX HD
@@ -252,14 +224,6 @@ https://play.megafon.tv/out/u/v1-video-7731258.mpd
 https://play.megafon.tv/out/u/v1-video-7731480.mpd
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+ Adventure HD
 https://play.megafon.tv/out/u/v1-video-6370553.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-52793" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3139.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Viasat Explore HD
-http://tv.aurabook.site:8080/channel/n51e1f653/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-52807" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/4637.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Viasat History HD
-http://tv.aurabook.site:8080/channel/n4629abf4/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-197" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5532.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Viasat Nature HD
-http://tv.aurabook.site:8080/channel/2cfb6e91/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-198" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8772.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Viasat Nature/History HD
-http://tv.aurabook.site:8080/channel/nde345f4/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Познавательные" tvg-id="zoopark",Zooпарк
 https://play.megafon.tv/out/u/v1-video-7731259.mpd
 #EXTINF:-1 group-title="Познавательные" tvg-id="bolshaya-azia",Большая Азия
@@ -312,10 +276,6 @@ https://play.megafon.tv/out/u/v1-video-5308459.mpd
 https://play.megafon.tv/out/u/v1-video-7969092.mpd
 #EXTINF:-1 group-title="Детские" tvg-id="baby-tv",Baby TV
 https://play.megafon.tv/out/u/v1-video-7969096.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="bcu-kids" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/8585.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Kids HD
-http://tv.aurabook.site:8080/channel/n32961381/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="bcu-kids-plus" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/6398.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Kids+ HD
-http://tv.aurabook.site:8080/channel/n2027f1f2/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Детские" tvg-id="boomerang",Boomerang
 https://play.megafon.tv/out/u/v1-video-5308446.mpd
 #EXTINF:-1 group-title="Детские" tvg-id="cartoon-network",Cartoon Network
@@ -417,58 +377,12 @@ https://play.megafon.tv/out/u/v1-video-6348401.mpd
 https://play.megafon.tv/out/u/v1-video-6782133.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia1",A1 HD
 https://play.megafon.tv/out/u/v1-video-6370556.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-26" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/8006.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Amedia 2 HD
-http://tv.aurabook.site:8080/channel/26d545f1/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia2",А2 SD
 https://play.megafon.tv/out/u/v1-video-7731110.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia-hit",Amedia Hit HD
 https://play.megafon.tv/out/u/v1-video-6370552.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia-premium",Amedia Premium HD
 https://play.megafon.tv/out/u/v1-video-6370555.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55465" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7255.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Action HD
-http://tv.aurabook.site:8080/channel/226aac16/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55464" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/5577.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Catastrophe HD
-http://tv.aurabook.site:8080/channel/n5893a6f8/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-53995" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/1086.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Cinema HD
-http://tv.aurabook.site:8080/channel/75dfb97b/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="bcu-cinemaplus" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/6536.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Cinema+ HD
-http://tv.aurabook.site:8080/channel/461be092/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55456" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2718.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Comedy HD
-http://tv.aurabook.site:8080/channel/n50335f2d/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55457" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7834.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Fantastic HD
-http://tv.aurabook.site:8080/channel/n5723cfaf/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-54990" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/6071.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU FilMystic HD
-http://tv.aurabook.site:8080/channel/n71e1d024/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55458" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2071.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Kinorating HD
-http://tv.aurabook.site:8080/channel/1ec7da90/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55459" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/1740.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Marvel HD
-http://tv.aurabook.site:8080/channel/ne4dc3d3/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-2519" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/1231.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU MEDIA HD
-http://tv.aurabook.site:8080/channel/65923c8/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55460" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7167.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Premiere 1 HD
-http://tv.aurabook.site:8080/channel/n23ee217e/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55460" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2938.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Premiere 2 HD
-http://tv.aurabook.site:8080/channel/n23edad1f/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55460" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7597.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Premiere 3 HD
-http://tv.aurabook.site:8080/channel/n23ed38c0/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55460" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2310.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Premiere 4 HD
-http://tv.aurabook.site:8080/channel/n23ecc461/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55460" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/3078.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Premiere HD
-http://tv.aurabook.site:8080/channel/n1c8a7e0d/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-1973" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/8010.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Romantic HD
-http://tv.aurabook.site:8080/channel/15900efb/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-2518" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/4165.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Russian HD
-http://tv.aurabook.site:8080/channel/6ee6e5b9/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="bcu-stars" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/9944.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Stars HD
-http://tv.aurabook.site:8080/channel/5fba1a2b/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="bcu-ultra4k" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/3906.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Ultra 4K
-http://tv.aurabook.site:8080/channel/n57518365/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55461" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/3239.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU VHS HD
-http://tv.aurabook.site:8080/channel/n13a8575/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-2517" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2420.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU Сваты HD
-http://tv.aurabook.site:8080/channel/47427e64/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55462" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/9118.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",BCU СССР HD
-http://tv.aurabook.site:8080/channel/4770658d/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="bollywood-hd",Bollywood HD
 https://play.megafon.tv/out/u/v1-video-6370563.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="bolt-ru",Bolt HD Россия
@@ -479,8 +393,6 @@ https://play.megafon.tv/out/u/v1-video-6370561.mpd
 https://play.megafon.tv/out/u/v1-video-7969112.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="filmbox-ru",FilmBox Russia
 https://play.megafon.tv/out/u/v1-video-7969114.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="flux-hd" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2344.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Flux HD
-http://tv.aurabook.site:8080/channel/2e39d96f/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="fox",FOX HD
 https://play.megafon.tv/out/u/v1-video-7731409.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="foxlife",FOX Life HD
@@ -491,14 +403,6 @@ https://play.megafon.tv/out/u/v1-video-7969088.mpd
 https://play.megafon.tv/out/u/v1-video-7731227.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="paramount-comedy",Paramount Comedy HD
 https://play.megafon.tv/out/u/v1-video-7986586.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-9158" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/1593.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Premiere HD 1
-http://tv.aurabook.site:8080/channel/n1b0195d0/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-9158" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/5752.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Premiere HD 2
-http://tv.aurabook.site:8080/channel/n1b0195cf/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-9158" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/4185.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Premiere HD 3
-http://tv.aurabook.site:8080/channel/n1b0195ce/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-9158" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/9245.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Premiere HD 4
-http://tv.aurabook.site:8080/channel/n1b0195cd/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="russian-extreme-uhd",Russian Extreme Ultra HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2
@@ -524,14 +428,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-173" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/9807.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ViP Comedy HD
-http://tv.aurabook.site:8080/channel/n2549c0c8/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-174" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7787.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ViP Megahit HD
-http://tv.aurabook.site:8080/channel/791e25d2/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-175" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2110.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ViP Premiere HD
-http://tv.aurabook.site:8080/channel/n6e75efa8/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-55135" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2572.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ViP Serial HD
-http://tv.aurabook.site:8080/channel/a380213/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="zee-tv",Zee TV
 https://play.megafon.tv/out/u/v1-video-7731223.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino",Дом кино
@@ -550,10 +446,6 @@ https://play.megafon.tv/out/u/v1-video-6348371.mpd
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino-tv",КиноТВ HD
 https://play.megafon.tv/out/u/v1-video-7969543.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/8831.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Киноджем 1 HD
-http://tv.aurabook.site:8080/channel/n5d7e1e41/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7041.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Киноджем 2 HD
-http://tv.aurabook.site:8080/channel/n5d7da9e2/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinomiks",Киномикс
 https://play.megafon.tv/out/u/v1-video-6348397.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinosvidanie",Киносвидание
@@ -562,8 +454,6 @@ https://play.megafon.tv/out/u/v1-video-5308391.mpd
 https://play.megafon.tv/out/u/v1-video-6348320.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinoseria",Киносерия HD
 https://play.megafon.tv/out/u/v1-video-7986563.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-1796" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/1755.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Киноужас HD
-http://tv.aurabook.site:8080/channel/44d07995/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinoxit",Кинохит
 https://play.megafon.tv/out/u/v1-video-6348311.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="mir-seriala",Мир сериала
@@ -586,12 +476,8 @@ https://play.megafon.tv/out/u/v1-video-6348330.mpd
 https://play.megafon.tv/out/u/v1-video-5308442.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="okino",О! Кино!
 https://play.megafon.tv/out/u/v1-video-5308411.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-576" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/4999.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Остросюжетное HD
-http://tv.aurabook.site:8080/channel/5d407daf/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="pobeda",Победа HD
 https://play.megafon.tv/out/u/v1-video-6361995.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-574" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7718.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Премиальное HD
-http://tv.aurabook.site:8080/channel/n11ad19e9/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="retro-tv",Ретро ТВ
 https://play.megafon.tv/out/u/v1-video-6348323.mpd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="rodnoe-kino",Родное кино
@@ -610,14 +496,8 @@ https://play.megafon.tv/out/u/v1-video-6348331.mpd
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="serial-ultrahd",Сериал UHD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/variant.m3u8?version=2
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-624" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/1961.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Страшное HD
-http://tv.aurabook.site:8080/channel/59d8a1b/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="feniks-plus-kino",Феникс+ кино
 https://play.megafon.tv/out/u/v1-video-5612950.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-2506" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/2119.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Хит HD
-http://tv.aurabook.site:8080/channel/602daa51/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-282" group-title="Кино и сериалы" tvg-logo="http://pl.ottg.tv:80/icon/7023.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Шокирующее HD
-http://tv.aurabook.site:8080/channel/1917e1e6/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Мужские" tvg-id="avto-plus",Авто плюс
 https://play.megafon.tv/out/u/v1-video-6348295.mpd
 #EXTINF:-1 group-title="Мужские" tvg-id="avto24",АВТО24
@@ -712,8 +592,6 @@ https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8?version=2
 https://play.megafon.tv/out/u/v1-video-5308408.mpd
 #EXTINF:-1 group-title="Музыкальные" tvg-id="o2tv",О2ТВ
 https://play.megafon.tv/out/u/v1-video-5308486.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-30002" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/8673.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",ТНТ Music HD
-http://tv.aurabook.site:8080/channel/7e6a834/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Кулинарные" tvg-id="eda",Еда
 https://play.megafon.tv/out/u/v1-video-7986629.mpd
 #EXTINF:-1 group-title="Кулинарные" tvg-id="eda-hd",Еда Премиум HD
@@ -1235,26 +1113,18 @@ https://play.megafon.tv/out/u/v1-video-5613015.mpd
 https://play.megafon.tv/out/u/v1-video-8013154.mpd
 #EXTINF:-1 group-title="Телемагазины" tvg-id="yuvelirochka",Ювелирочка
 https://play.megafon.tv/out/u/v1-video-5308481.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hlsproxy-54315" parent-code="0000" group-title="Эротические" tvg-logo="http://pl.ottg.tv:80/icon/4736.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Babes TV HD 18+
-http://tv.aurabook.site:8080/channel/2f290e8b/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Эротические" tvg-id="barely-legal",Barely Legal TV
 https://play.megafon.tv/out/u/v1-video-6348294.mpd
 #EXTINF:-1 group-title="Эротические" tvg-id="blue-hustler",Blue Hustler HD
 https://play.megafon.tv/out/u/v1-video-5308457.mpd
 #EXTINF:-1 group-title="Эротические" tvg-id="brazzers-tv-europe",Brazzers Tv Europe
 https://play.megafon.tv/out/u/v1-video-6782126.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Эротические" tvg-logo="http://pl.ottg.tv:80/icon/6057.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Cum4k UHD 18+
-http://tv.aurabook.site:8080/channel/1d66cc43/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Эротические" tvg-logo="http://pl.ottg.tv:80/icon/3797.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Digital Desire HD 18+
-http://tv.aurabook.site:8080/channel/1137214a/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Эротические" tvg-id="erox",Erox HD
 https://play.megafon.tv/out/u/v1-video-6782113.mpd
 #EXTINF:-1 group-title="Эротические" tvg-id="o-la-la",O-la-la
 https://play.megafon.tv/out/u/v1-video-6782115.mpd
 #EXTINF:-1 group-title="Эротические" tvg-id="playboy-tv",Playboy TV
 https://play.megafon.tv/out/u/v1-video-6782118.mpd
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Эротические" tvg-logo="http://pl.ottg.tv:80/icon/8538.png" tvg-shift="0" url-epg="http://tv.aurabook.site:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ",Tiny4k UHD 18+
-http://tv.aurabook.site:8080/channel/n4a828d70/index.m3u8?q=eyJ1c2VySWQiOiJCbGFja3ZpY3RvciJ9.iOnnjFubqBV1Cx20Z5RsG76crsdjB2H4T1EvJKjDu1881CAPvpro6lo7qMHNrG1r6qkOVApjcSBanyenazsbOQ
 #EXTINF:-1 group-title="Эротические" tvg-id="russkaya-noch",Русская ночь
 https://play.megafon.tv/out/u/v1-video-6348358.mpd
 #EXTINF:-1 group-title="Эротические" tvg-id="shalun",Шалун
