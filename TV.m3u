@@ -1129,3 +1129,10 @@ https://play.megafon.tv/out/u/v1-video-6782118.mpd
 https://play.megafon.tv/out/u/v1-video-6348358.mpd
 #EXTINF:-1 group-title="Эротические" tvg-id="shalun",Шалун
 https://play.megafon.tv/out/u/v1-video-6782131.mpd
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1,СТРАШНОЕ HD
+https://cdn.strah.video:8888/live/strashnoehd/chunks.m3u8?nimblesessionid=236167&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDEwOjAzOjU3IFBNJmhhc2hfdmFsdWU9MkRUaTJNS0ZadmhkbVFwOEhiN2xDQT09JnZhbGlkbWludXRlcz0zJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNiZpZD0xMw==
+#EXTINF:-1,СТРАХ HD
+https://cdn.strah.video:8888/live/strahhd/chunks.m3u8?nimblesessionid=236176&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDEwOjA1OjU0IFBNJmhhc2hfdmFsdWU9S2NWaFVvTzZ2ZjJWRUduVjJ2dGxXZz09JnZhbGlkbWludXRlcz0zJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xMiZpZD0x
+#EXTINF:-1,Фантастика HD
+https://cdn.strah.video:8888/live/fantastikahd/chunks.m3u8?nimblesessionid=236143&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDk6NTk6MjIgUE0maGFzaF92YWx1ZT1LZmwrSnVRMmVkd21WU2pJSTJpU1d3PT0mdmFsaWRtaW51dGVzPTMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3JmlkPTI=
