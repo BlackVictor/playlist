@@ -2,20 +2,16 @@
 
 #EXTINF:-1 group-title="Центральные",Первый канал
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 group-title="Центральные",Первый канал Евразия
-http://192.168.1.50:6878/ace/getstream?id=8599818264dd7fdc068ac0a9fac8447fd52ad270
 #EXTINF:-1 group-title="Центральные",Россия 1 HD
-https:\\vgtrkregion-reg.cdnvideo.ru\vgtrk\0\russia1-hd\1080p.m3u8
-#EXTINF:-1 group-title="Центральные", РТР-Планета Азия
-http://192.168.1.50:6878/ace/getstream?id=8410d13737ac090732898be21e6dd55dabb031fe
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Центральные", РТР-Планета Европа
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 #EXTINF:-1 group-title="Центральные",ТНТ4 HD
 http://192.168.1.50:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845
 #EXTINF:-1 group-title="Центральные",ТНТ HD
 http://192.168.1.50:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b
 #EXTINF:-1 group-title="Центральные",РЕН ТВ
-http://192.168.1.50:6878/ace/getstream?id=5d2b34377ff010af21f777600c6be77d4479f2eb
-#EXTINF:-1 group-title="Центральные",Рен ТВ International
-http://192.168.1.50:6878/ace/getstream?infohash=881ffab7e64f437d16d2ca4474c291a4a1111bd2
+hhttp://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Центральные",НТВ ХИТ
 http://192.168.1.50:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280
 #EXTINF:-1 group-title="Центральные",НТВ Стиль
