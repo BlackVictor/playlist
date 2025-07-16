@@ -11,7 +11,7 @@ http://192.168.1.50:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d8
 #EXTINF:-1 group-title="Центральные",ТНТ HD
 http://192.168.1.50:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b
 #EXTINF:-1 group-title="Центральные",РЕН ТВ
-hhttp://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Центральные",НТВ ХИТ
 http://192.168.1.50:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280
 #EXTINF:-1 group-title="Центральные",НТВ Стиль
