@@ -98,7 +98,7 @@ http://127.0.0.1:6878/ace/getstream?id=ac92a83d7e7903ee7b843e4a490d247ff357d1e9
 #EXTINF:-1 group-title="Познавательные",CGTN Русский
 http://127.0.0.1:6878/ace/getstream?id=9f7dd05a3f443890373824ee399423c747214568
 #EXTINF:-1 group-title="Фильмы",Шокирующее HD
-http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700
+http://127.0.0.1:6878/ace/getstream?infohash=90f87b7e2044d25ce1e483774bded9ccf961e697
 #EXTINF:-1 group-title="Фильмы",Хит HD
 http://127.0.0.1:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d
 #EXTINF:-1 group-title="Фильмы",Феникс+Кино
@@ -4920,4 +4920,5 @@ http://127.0.0.1:6878/ace/manifest.m3u8?infohash=4850c52423448213b1176b12893cd94
 #EXTINF:-1 group-title="Not sorted", Red Bull TV (1080p)
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=df9013a764b084b614388a2b167bfa8f2fb6333c&.mp4
 #EXTINF:-1 group-title="Not sorted", Red Bull TV (1080p)
+
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=7a09bc18a3b33c5e85ef7448f4431e9f4e12b1c8&.mp4
