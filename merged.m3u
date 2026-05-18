@@ -36,7 +36,7 @@ http://192.168.1.50:6878/ace/getstream?infohash=578f39baa844e8d8ffda904ad6fc2e29
 #EXTINF:-1 group-title="Эфирные",СТС
 http://192.168.1.50:6878/ace/getstream?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22
 #EXTINF:-1 group-title="Эфирные",Рен ТВ
-http://185.46.16.239:8000/REN_TV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Эфирные",Рен ТВ HD
 https://edge02d.mediavitrina.ru/hls-livef5/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.cdFrHtMMNgkQhVX4HjKZ1WA0MaVtEdQ0LpzKYcDtPrM.Nzv2r6MmZSUo0qO0EvfRs1ZGo9iQB5mi6Awljfrhfpw.1775514884.1851a650ab39886ac9afd14d076a01be
 #EXTINF:-1 group-title="Эфирные",Рен ТВ Int.
