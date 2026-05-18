@@ -3,6 +3,8 @@
 https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1779127089
 #EXTINF:-1 group-title="Эфирные",Россия 1 HD
 http://192.168.1.50:6878/ace/getstream?infohash=e8f879061af9baeed16ac4e1e4207d9aa4cf348a
+#EXTINF:-1 group-title="Эфирные",Россия 1 HD
+https://edge01r.mediavitrina.ru/hls-livef5/russia1/tracks-v5a1/mono.ts.m3u8?token=v2.V8t04bL5LzTUQkGrM3lDAd5rhs2UeXrbtBXT14ZUlW0.-3hRJZhrLWDINtFNq78yn11dx2_AE5veOEPsVAjE3J8.1775514664.ff332ff65c7e4fa0d0267b7550c2831b
 #EXTINF:-1 group-title="Эфирные",Матч! HD
 http://192.168.1.50:6878/ace/getstream?infohash=c5f448b1bc9c01485843d4ddb4f39602ea62e8e9
 #EXTINF:-1 group-title="Эфирные",Матч! ТВ HD
@@ -24,6 +26,8 @@ http://192.168.1.50:6878/ace/getstream?infohash=243fdad3ecfc42acc714e0f2fba96057
 #EXTINF:-1 group-title="Эфирные",ТВЦ
 http://192.168.1.50:6878/ace/getstream?infohash=a7b0acdbfd448fbe857f364a1abf579214967522
 #EXTINF:-1 group-title="Эфирные",ТВЦ HD
+https://edge03d.mediavitrina.ru/hls-livef6/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.UqYFXimsRa6uZ061lQ1dD32FZMamQYfRQw1-GK_ku1s.vcDWBMcNT9kaDEFRW8-Um-1vdPf7GyhRAaGUiGzOa1A.1775514150.ab650753e987b3dbf9996a80e55ec52b
+#EXTINF:-1 group-title="Эфирные",ТВЦ HD
 http://192.168.1.50:6878/ace/getstream?infohash=6ca70fa4e297d7e423750f512a44f47e25e761c6
 #EXTINF:-1 group-title="Эфирные",Россия Культура
 http://185.46.16.239:8000/Rossiya_K
@@ -33,6 +37,8 @@ http://192.168.1.50:6878/ace/getstream?infohash=578f39baa844e8d8ffda904ad6fc2e29
 http://192.168.1.50:6878/ace/getstream?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22
 #EXTINF:-1 group-title="Эфирные",Рен ТВ
 http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 group-title="Эфирные",Рен ТВ HD
+https://edge02d.mediavitrina.ru/hls-livef5/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.cdFrHtMMNgkQhVX4HjKZ1WA0MaVtEdQ0LpzKYcDtPrM.Nzv2r6MmZSUo0qO0EvfRs1ZGo9iQB5mi6Awljfrhfpw.1775514884.1851a650ab39886ac9afd14d076a01be
 #EXTINF:-1 group-title="Эфирные",Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="Эфирные",ОТР HD
@@ -74,7 +80,7 @@ http://192.168.1.50:6878/ace/getstream?infohash=1a515db67aa45f7647b96a1b899b0aed
 #EXTINF:-1 group-title="Эфирные",Ю ТВ
 https://user81396.clients-cdnnow.ru/dash-livef1/yu/index.mpd?token=v2.mByADXYeIUn7t9zeh8V1qzd6nbNiZs1KmgIR0PNdURk.MD3B4jqlny10TPFRGqdI7kRk3ZRlRk0QPpKfSVf7Bzo.1769254402.ca05a96db71161c091d6524bd14b7ad1
 #EXTINF:-1 group-title="Эфирные",Че
-http://95.66.188.74/Che/mono.m3u8
+https://edge02r.mediavitrina.ru/dash-livef5/ctc-che/index.mpd?token=v2.vf9-kekSzcDanuCr36DREUJBHb7SB2fCIM_VMu0_jaI.TbfDn2kUgK4QIm-cjDdovxd26Q-BLqJzTPhgCLRjOE0.1775512678.ec0c0f1898b94a60ab10a0b65d4e248d
 #EXTINF:-1 group-title="Эфирные",2x2 HD
 http://192.168.1.50:6878/ace/getstream?infohash=a52b71d6b0f1ff0e661e7788caedb91e85fde0ec
 #EXTINF:-1 group-title="Эфирные",2x2
