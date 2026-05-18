@@ -78,9 +78,9 @@ http://192.168.1.50:6878/ace/getstream?infohash=8905ae2f502880f2f2aa56c3209239e7
 #EXTINF:-1 group-title="Эфирные",Звезда HD
 http://192.168.1.50:6878/ace/getstream?infohash=1a515db67aa45f7647b96a1b899b0aed6bbe6ab3
 #EXTINF:-1 group-title="Эфирные",Ю ТВ
-https://mhd120.iptv2022.com/x/TIZfTY2btKyCI3C6gA3ziA,1779215586/streaming/utv/324/5/tracks-v4a1/mono.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Эфирные",Че
-https://mhd140.iptv2022.com/x/fcUMUz7NsTVY1hLWoukN4Q,1779215542/streaming/cheott/324/5/tracks-v4a1/mono.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Эфирные",2x2 HD
 http://192.168.1.50:6878/ace/getstream?infohash=a52b71d6b0f1ff0e661e7788caedb91e85fde0ec
 #EXTINF:-1 group-title="Эфирные",2x2
