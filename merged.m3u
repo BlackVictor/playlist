@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Эфирные",Первый канал HD
-https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1779127089
+https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Эфирные",Россия 1 HD
 http://192.168.1.50:6878/ace/getstream?infohash=e8f879061af9baeed16ac4e1e4207d9aa4cf348a
 #EXTINF:-1 group-title="Эфирные",Россия 1 HD
-https://edge01r.mediavitrina.ru/hls-livef5/russia1/tracks-v5a1/mono.ts.m3u8?token=v2.V8t04bL5LzTUQkGrM3lDAd5rhs2UeXrbtBXT14ZUlW0.-3hRJZhrLWDINtFNq78yn11dx2_AE5veOEPsVAjE3J8.1775514664.ff332ff65c7e4fa0d0267b7550c2831b
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Эфирные",Матч! HD
 http://192.168.1.50:6878/ace/getstream?infohash=c5f448b1bc9c01485843d4ddb4f39602ea62e8e9
 #EXTINF:-1 group-title="Эфирные",Матч! ТВ HD
@@ -26,7 +26,7 @@ http://192.168.1.50:6878/ace/getstream?infohash=243fdad3ecfc42acc714e0f2fba96057
 #EXTINF:-1 group-title="Эфирные",ТВЦ
 http://192.168.1.50:6878/ace/getstream?infohash=a7b0acdbfd448fbe857f364a1abf579214967522
 #EXTINF:-1 group-title="Эфирные",ТВЦ HD
-https://edge03d.mediavitrina.ru/hls-livef6/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.UqYFXimsRa6uZ061lQ1dD32FZMamQYfRQw1-GK_ku1s.vcDWBMcNT9kaDEFRW8-Um-1vdPf7GyhRAaGUiGzOa1A.1775514150.ab650753e987b3dbf9996a80e55ec52b
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные",ТВЦ HD
 http://192.168.1.50:6878/ace/getstream?infohash=6ca70fa4e297d7e423750f512a44f47e25e761c6
 #EXTINF:-1 group-title="Эфирные",Россия Культура
