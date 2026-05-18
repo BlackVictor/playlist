@@ -80,7 +80,7 @@ http://192.168.1.50:6878/ace/getstream?infohash=1a515db67aa45f7647b96a1b899b0aed
 #EXTINF:-1 group-title="Эфирные",Ю ТВ
 https://user81396.clients-cdnnow.ru/dash-livef1/yu/index.mpd?token=v2.mByADXYeIUn7t9zeh8V1qzd6nbNiZs1KmgIR0PNdURk.MD3B4jqlny10TPFRGqdI7kRk3ZRlRk0QPpKfSVf7Bzo.1769254402.ca05a96db71161c091d6524bd14b7ad1
 #EXTINF:-1 group-title="Эфирные",Че
-https://edge02r.mediavitrina.ru/dash-livef5/ctc-che/index.mpd?token=v2.vf9-kekSzcDanuCr36DREUJBHb7SB2fCIM_VMu0_jaI.TbfDn2kUgK4QIm-cjDdovxd26Q-BLqJzTPhgCLRjOE0.1775512678.ec0c0f1898b94a60ab10a0b65d4e248d
+https://a787201486-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/timeline/1779128712497.ts
 #EXTINF:-1 group-title="Эфирные",2x2 HD
 http://192.168.1.50:6878/ace/getstream?infohash=a52b71d6b0f1ff0e661e7788caedb91e85fde0ec
 #EXTINF:-1 group-title="Эфирные",2x2
