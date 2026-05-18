@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Эфирные",Первый канал HD
-http://95.66.188.74/PerviyHD/mono.m3u8
+https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1779127089
 #EXTINF:-1 group-title="Эфирные",Россия 1 HD
 http://192.168.1.50:6878/ace/getstream?infohash=e8f879061af9baeed16ac4e1e4207d9aa4cf348a
 #EXTINF:-1 group-title="Эфирные",Матч! HD
