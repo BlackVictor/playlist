@@ -78,9 +78,9 @@ http://192.168.1.50:6878/ace/getstream?infohash=8905ae2f502880f2f2aa56c3209239e7
 #EXTINF:-1 group-title="Эфирные",Звезда HD
 http://192.168.1.50:6878/ace/getstream?infohash=1a515db67aa45f7647b96a1b899b0aed6bbe6ab3
 #EXTINF:-1 group-title="Эфирные",Ю ТВ
-https://a1437441736-zabava-htlive.cdn.ngenix.net/hls/CH_U/video_800x450_avc1/timeline/1779128807024.ts
+https://a775797032-zabava-htlive.cdn.ngenix.net/hls/CH_U/video_800x450_avc1/playlist.m3u8?useseq=t&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI2IDY6Mjk6MDYgUE0maGFzaF92YWx1ZT1SUXlzaGdkSUVFTWJKU0VGU29yOGNBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Эфирные",Че
-https://a787201486-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/timeline/1779128712497.ts
+https://a787201486-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/playlist.m3u8?useseq=t&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI2IDY6MjU6MjAgUE0maGFzaF92YWx1ZT1PeHBKdFZiVXBqdHh1WDViN1IvcjZnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Эфирные",2x2 HD
 http://192.168.1.50:6878/ace/getstream?infohash=a52b71d6b0f1ff0e661e7788caedb91e85fde0ec
 #EXTINF:-1 group-title="Эфирные",2x2
